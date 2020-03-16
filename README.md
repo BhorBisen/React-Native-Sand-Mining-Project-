@@ -5,28 +5,28 @@ Project Screenshots :
 1.Home Page
 ![](Screenshot_20191229-184235.png)
 
-2.Registration
+2.Registration Page
 ![](Screenshot_20191229-184243.png)
 
-3.Invaild Registration
+3.Invaild Registration Page
 ![](Screenshot_20191229-184248.png)
 
-4.Login
+4.Login Page
 ![](Screenshot_20191229-215816.png)
 
-5.Invalid Username
+5.Invalid Username in login 
 ![](Screenshot_20191229-184308.png)
 
-6.Password invalid
+6.Password invalid in login
 ![](Screenshot_20191229-184321.png)
 
-7.Forgot Password
+7.Forgot Password Page
 ![](Screenshot_20191229-184332.png)
 
-8.Username does not exist
+8.Username does not exist in forgot password page
 ![](Screenshot_20191229-184328.png)
 
-9.Email Invalid
+9.Email Invalid in forgot password page
 ![](Screenshot_20191229-184351.png)
 
 10.Profile Page
@@ -41,10 +41,10 @@ Project Screenshots :
 13.Invalid details in ETP Generator
 ![](Screenshot_20191229-184418.png)
 
-14.Mining Details
+14.Mining List
 ![](Screenshot_20191229-184433.png)
 
-15.Mining Details
+15.Mining Details 
 ![](Screenshot_20191229-184438.png)
 
 16.Developer Details
